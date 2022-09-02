@@ -1,9 +1,25 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheus Victor======================================================================================================================================Desenvolvedor Java------------------* 🌍  I'm based in Campina Grande - PB* 🖥️  See my portfolio at [matheusvictor.dev](http://lnkd.in/d9GvU-V9)* ✉️  You can contact me at [matheusvictor.dev@gmail.com](mailto:matheusvictor.dev@gmail.com)* 🧠  I'm learning Java e Qualidade de Software* 🤝  I'm open to collaborating on projetos interessantes
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheus Victor
+======================================================================================================================================
+
+Desenvolvedor Java
+------------------
+
+*   🌍  I'm based in Campina Grande - PB
+*   🖥️  See my portfolio at [matheusvictor.dev](http://lnkd.in/d9GvU-V9)
+*   ✉️  You can contact me at [matheusvictor.dev@gmail.com](mailto:matheusvictor.dev@gmail.com)
+*   🧠  I'm learning Java e Qualidade de Software
+*   🤝  I'm open to collaborating on projetos interessantes
 
 ### Skills
+<p align="left">
+                                <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+                    </p>
+                    
 
-<p align="left"><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a></p>
-### Socials<p align="left"> <a href="https://discord.com/users/matheusvictoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/matheusvictoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zufilho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/matheusvictoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/matheusvictoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a></p>
+                  ### Socials
+                  
+                  <p align="left"> <a href="https://discord.com/users/matheusvictoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/matheusvictoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zufilho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/matheusvictoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/matheusvictoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
