@@ -5,7 +5,7 @@
 - Me chamo Matheus Victor, um estudante de Ciência da Computação com sede de conhecimento e apaixonado por criar soluções inovadoras e escaláveis.
 
 
-## Habilidades Técnicas
+## Familiarizado com:
 
 - Linguagens de Programação:
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
