@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F0FFF0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Victor;I'm+from+Brazil;I+Graduated+Computer+Science;Welcome+to+my+GitHub+Profile+%3A29" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F0FFF0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Victor;I'm+from+Brazil;I+Graduating+Computer+Science;Welcome+to+my+GitHub+Profile+%3A29" alt="Typing SVG">
 </div>
 
 <h2 align="center"> About me 🚀</h2>
