@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=F0FFF0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Victor;I'm+from+Brazil;I+Graduated+Computer+Science;Welcome+to+my+GitHub+Profile+%3A29" alt="Typing SVG">
 </div>
 
-<h2 align="center">🚀 About me 🚀</h2>
+<h2 align="center"> About me 🚀</h2>
 
 <p align="left">
 🙋🏽‍♂️ My name is Matheus Victor, a Computer Science enthusiast driven by a passion for technology and an insatiable desire for knowledge. I am fascinated by the ability to use technology to solve problems, realizing its transformative potential in people's lives.
@@ -20,20 +20,20 @@
 </p>
 
 <div align="center">
-  <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+  <h2> Languages-Frameworks-Tools ⚒️</h2>
   
   <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,vue,nodejs,html,css,vscode,github,git,figma" />
   <img src="https://skillicons.dev/icons?i=go,typescript,idea,postman,neovim,linux,express,postgres,mongodb,mysql" />
 </div>
 
-<h2 align="center">📊 Statistics 📊</h2>
+<h2 align="center"> Statistics 📊</h2>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusvictoor&show_icons=true&count_private=true&hide_border=true&theme=gotham" /> 
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvictoor&layout=compact&hide_border=true&theme=gotham" />
 </div>
 
-<h2 align="center">👇Contact me 👇</h2>
+<h2 align="center"> Contact me 👇</h2>
 
 <div align="center">
   <a href="mailto:matheusvictor.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email"></a>
