@@ -24,12 +24,13 @@
   
   <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,vue,nodejs,html,css,vscode,github,git,figma" />
   <img src="https://skillicons.dev/icons?i=go,typescript,idea,postman,neovim,linux,express,postgres,mongodb,mysql" />
+  
 </div>
 
 <h2 align="center"> Statistics 📊</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusvictoor&show_icons=true&count_private=true&hide_border=true&theme=gotham" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusvictoor&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=gotham" /> 
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvictoor&layout=compact&hide_border=true&theme=gotham" />
 </div>
 
